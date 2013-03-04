@@ -146,8 +146,8 @@ body {
   font-family: 'Montserrat', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  color: #6f2d85;
-  background-color: #d8d4cb;
+  color: #ffffff;
+  background-color: #6f2d85;
 }
 a {
   color: #0088cc;
@@ -1266,7 +1266,7 @@ select:focus:required:invalid:focus {
 }
 .help-block,
 .help-inline {
-  color: #9f40be;
+  color: #ffffff;
 }
 .help-block {
   display: block;
