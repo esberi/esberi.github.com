@@ -1,0 +1,25 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Founder: Zakullah Khan Mohammed 
+    Contact: mkhan [at] encore.io
+    Twitter: @khan_io
+    From: Singapore, Singapore
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+
+
+/* SITE */
+	Last update:2012/09/20
+	Language: English
+	Doctype:HTML5
+	IDE: Sublime Text, Smaller, Photoshop
