@@ -1,6 +1,4 @@
 #!/bin/sh
-
-git rm css/style.css css/style.min.css css/style.min.css.gz
-
-mkdir css
+git rm css/style.css
 lessc less/master.less >> css/style.css
+git add css/style.css
