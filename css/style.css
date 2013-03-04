@@ -5290,7 +5290,7 @@ body {
   font-family: 'Montserrat', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFFFFF;
   text-transform: uppercase;
-  letter-spacing: 0.07em;
+  letter-spacing: 0.01em;
 }
 .nav li a {
   text-transform: uppercase;
@@ -5469,7 +5469,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #ffffff;
-  background-color: #6ac08c;
+  background-color: #d8d4cb;
 }
 a {
   color: #0088cc;
